@@ -30,6 +30,7 @@ public :
    glTranslatef(-pos.x,-pos.y,-pos.z);
 
    getViewMatrix();
+
    right=vec3(viewMatrix[0],viewMatrix[4],viewMatrix[8]);
    up=vec3(viewMatrix[1],viewMatrix[5],viewMatrix[9]);
    forward=vec3(viewMatrix[2],viewMatrix[6],viewMatrix[10]);
