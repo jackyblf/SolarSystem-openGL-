@@ -27,3 +27,5 @@
 10. gltrail.h  billboard poly chain技术
 11. tga.h tga图像读取
 12. main.cpp main函数入口代码
+
+billboardingtut.pdf ---> opengl版billboard技术文档，非常详细，易于理解
